@@ -1,0 +1,10 @@
+body{
+    background-image: radial-gradient(circle, #0070ff, #009bff, #00baff, #00d4e2, #00e8c0, #69eaa3, #9dea88, #c9e874, #e2d86d, #f4c970, #fdbb7b, #ffaf89);
+}
+#campuslife img{
+    height: 200px;
+    width: 200px;
+}
+#campuslife span{
+    display: inline;
+}
